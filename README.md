@@ -1,4 +1,4 @@
-#Website Terminal
+# Website Terminal
 Website Ini Di Dikembangkan Bot Hunting Company Limited
 
 Author		: Bot Hunting
